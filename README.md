@@ -1,7 +1,8 @@
 # Password Locker
-## This is a Python application that allows users to confirm, check and to know whether a specific currency code is supported in the application
+* This is a Python application that allows users to confirm, check and to know whether a specific currency code is supported in the application
 
-## Date 08/20/2020
+## Date 
+* 08/20/2020
 
 ## By **[Daniel Kariuki ](https://github.com/Buttonupd)**
 
@@ -16,7 +17,7 @@ The short codes are:
 
 ## User Stories
 As a user I would like:
-* To key in a Currency and receive immediate feedback of whether or not it is supported in the application
+* To key in a Currency and receive immediate feedback on whether or not it is supported in the application
 * To be provided with a help menu
 * To run the application gracefully
 
