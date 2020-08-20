@@ -43,7 +43,8 @@ As a user I would like:
 ## Running the application
 * install virtualenv(virtual Environment) and activate it
 * on Linux, to activate the virtual environment type: source/env/bin/activate <br/>
-* on Windows type env\scripts\activate
+* once the environment is activated, it should display something like(env) at root directory. <br/> Proceed by typing in python coded.py in the terminal.
+* on Windows type env\scripts\activate. <br/> Follow step 3
 
 
 
