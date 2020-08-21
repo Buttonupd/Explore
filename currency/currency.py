@@ -11,7 +11,7 @@ def currency():
     :return:
     """
     # load the csv data
-    data = pd.read_csv('Cheap.Stocks.Internationalization.Currencies.Csv')
+    data = pd.read_csv('Cheap.Stocks.Internationalization.Currencies.csv')
 
     # convert the csv data into a 2d array
     data = data[['Country', 'Currency', 'ISO 4217 Code']]
@@ -36,6 +36,9 @@ def currency():
 
         elif user in np.array(listed_currencies)[:, 2]:
             print(user + ':\nThis is a supported Currency in our application.')
+
+        elif user == "":
+            break
 
         else:
             print(user + ":\nConfirm whether the name and spelling of the Currency you have entered is correct."

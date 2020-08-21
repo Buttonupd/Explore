@@ -28,6 +28,7 @@ def main():
         elif short_code == 'rn':
             # execute the main code if this code is called
             from currency import currency
+
             print("-" * 10)
 
         elif short_code == "ex":
