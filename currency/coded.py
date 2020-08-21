@@ -8,6 +8,7 @@ def main():
 
     # use while loop function to execute a code for different conditions
     while True:
+
         """
             in this code I have defined a while loop code which checks for different conditions
             A menu for the user to guide them through running the program.

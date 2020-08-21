@@ -6,7 +6,6 @@ import numpy as np
 
 
 def request():
-
     # using python urllib request to read csv file from external file
     # load data and post it in the console
     # pass the csv url, read the file and decode it with ascii mode on

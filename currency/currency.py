@@ -5,6 +5,7 @@ import numpy as np
 
 
 def currency():
+
     """
     this function helps compute different features of the program
     :return:

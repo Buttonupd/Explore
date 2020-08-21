@@ -1,13 +1,13 @@
 #! /usr/bin/env python3.7
 
+
 # define a function to compute the code below
-
-
 def main():
     print("Welcome to Help Menu. Choose one or more")
 
     # use while loop function to execute a code for different conditions
     while True:
+
         """
             in this code I have defined a while loop code which checks for different conditions
             A menu for the user to guide them through running the program.
@@ -18,7 +18,6 @@ def main():
 
         short_code = input().lower()
         if short_code == 'help':
-
             print("-" * 10)
             print("In the terminal, type python run.py. This the name of the executable file. \n"
                   "You are prompted to key in a currency value. \n"
