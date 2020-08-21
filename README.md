@@ -1,5 +1,6 @@
-# Password Locker
-## This is a Python application that allows users to confirm, check and to know whether a specific currency code is supported in the application
+# Currency Checker
+
+## This is a Python application that allows users to confirm, check and to know whether a specific currency code is supported in the application.
 
 ## Date 08/20/2020
 
@@ -13,13 +14,11 @@ The short codes are:
 * rn - Run the application
 * ex - log into exit
 
-
 ## User Stories
 As a user I would like:
 * To key in a Currency and receive immediate feedback of whether or not it is supported in the application
 * To be provided with a help menu
 * To run the application gracefully
-
 
 ## Specifications
 | Behavior        | Input           | Outcome  |
@@ -35,16 +34,31 @@ As a user I would like:
 * Pandas
 * Numpy
 
-## Cloning
+## Cloning application number 1
+* for user who might not have active internet access, this repository is is preferable.Nevertheless, it is not updated in real time
 * Clone [this repository](https://github.com/Buttonupd/Explore/)
 * cd FocusLtd/currency
 
 ## Running the application
-* install virtualenv(virtual Environment) and activate it
-* on Linux, to activate the virtual environment type: source/env/bin/activate <br/>
-* on Windows type env\scripts\activate
+* Install virtualenv(virtual Environment) and activate it
+* On Linux, to activate the virtual environment type: source/env/bin/activate <br/>
+* On Windows type env\scripts\activate
+* At the root directory, it should display (env), or the name of your virtual environment
+* Install dependencies (python3 -m pip install -r requirements.txt)
+* Run the program by typing python coded.py in the terminal
 
+## Cloning application number two
+* Running this application requires internet connectivity since the data is being retrieved for the source using HTTP request/s.
+* Clone [this repository](https://github.com/Buttonupd/Explore/)
+* cd FocusLtd/Request
 
+## Running the application number 2
+* Install virtualenv(virtual Environment) and activate it
+* On Linux, to activate the virtual environment type: source/env/bin/activate <br/>
+* On Windows type env\scripts\activate
+* At the root directory, it should display (env), or the name of your virtual environment
+* Install dependencies (python3 -m pip install -r requirements.txt)
+* Run the program by typing python run.py in the terminal
 
 ## Known Bugs
 
