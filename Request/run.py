@@ -18,6 +18,7 @@ def main():
 
         short_code = input().lower()
         if short_code == 'help':
+
             print("-" * 10)
             print("In the terminal, type python run.py. This the name of the executable file. \n"
                   "You are prompted to key in a currency value. \n"
