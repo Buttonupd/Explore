@@ -25,7 +25,7 @@ As a user I would like:
 | Behavior        | Input           | Outcome  |
 | ------------- |:-------------:| -----:|
 | Help Menu | help | View help guidelines to smoothly run the program |
-| run the program| rn | A user is prompted to enter a currency value and interact with the application |
+| Run the program| rn | A user is prompted to enter a currency value and interact with the application |
 | Log out of the application | ex| exit the application |
 
 ## Setup/ Installation Requirements
@@ -36,7 +36,7 @@ As a user I would like:
 * Numpy
 
 ## Cloning application number 1
-* for user who might not have active internet access, this repository is is preferable.Nevertheless, it is not updated in real time
+* For users who might not have active internet access, this repository is is preferable. Nevertheless, it is not updated in real time
 * Clone [this repository](https://github.com/Buttonupd/Explore/)
 * cd FocusLtd/currency
 
