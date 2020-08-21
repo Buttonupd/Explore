@@ -30,10 +30,11 @@ def currency():
             print(user + ":\nYou have entered the name of a country. \nPlease enter a Country Currency. ")
 
         elif user in np.array(listed_currencies)[:, 1]:
-            print(user + ':\nThis is a supported Currency in our application.')
+            print(user + ":\nYou have entered the Country Currency instead of the code."
+                         " \nIt still is a supported Currency Code in the application.")
 
         elif user in np.array(listed_currencies)[:, 2]:
-            print(user + ":\nThis is an ISO 4217 CODE of A Country. \nIt still is a supported Currency Code.")
+            print(user + ':\nThis is a supported Currency in our application.')
 
         else:
             print(user + ":\nConfirm whether the name and spelling of the Currency you have entered is correct."

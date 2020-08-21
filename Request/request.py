@@ -28,10 +28,11 @@ def request():
             print(user + ":\nYou have entered the name of a country. \nPlease enter a Country Currency. ")
 
         elif user in np.array(csvReader)[:, 1]:
-            print(user + ':\nThis is a supported Currency in our application.')
+            print(user + ":\nYou have entered the Country Currency instead of the code."
+                         " \nIt still is a supported Currency Code in the application.")
 
         elif user in np.array(csvReader)[:, 2]:
-            print(user + ":\nThis is an ISO 4217 CODE of A Country. \nIt still is a supported Currency Code.")
+            print(user + ':\nThis is a supported Currency in our application.')
 
         elif user == "":
             break
