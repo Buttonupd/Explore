@@ -2,10 +2,6 @@
 
 ## This is a Python application that allows users to confirm, check and to know whether a specific currency code is supported in the application.
 
-# Password Locker
-* This is a Python application that allows users to confirm, check and to know whether a specific currency code is supported in the application
-
-
 ## Date 
 * 08/20/2020
 
