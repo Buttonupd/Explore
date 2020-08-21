@@ -35,7 +35,7 @@ As a user I would like:
 * Pandas
 * Numpy
 
-## Cloning application number 1
+## Cloning application number 1 (currency)
 * For users who might not have active internet access, this repository is is preferable. Nevertheless, it is not updated in real time
 * Clone [this repository](https://github.com/Buttonupd/Explore/)
 * cd FocusLtd/currency
@@ -46,10 +46,9 @@ As a user I would like:
 * On Linux, to activate the virtual environment type: source/env/bin/activate <br/>
 * On Windows type env\scripts\activate
 * At the root directory, it should display (env), or the name of your virtual environment
-* Install dependencies (python3 -m pip install -r requirements.txt)
 * Run the program by typing python coded.py in the terminal
 
-## Cloning application number two
+## Cloning application number two (Request)
 * Running this application requires internet connectivity since the data is being retrieved for the source using HTTP request/s.
 * Clone [this repository](https://github.com/Buttonupd/Explore/)
 * cd FocusLtd/Request
