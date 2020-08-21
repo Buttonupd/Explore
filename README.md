@@ -8,7 +8,7 @@
 ## By **[Daniel Kariuki ](https://github.com/Buttonupd)**
 
 ## Description
-This is a Command line application developed using python. The application runs in the terminal.Once executed, a user is present with a few options, listed below as short codes.
+This is a Command line application developed using python. The application runs in the terminal.Once executed, a user is presented with a few options, listed below as short codes.
 A user is given the power to check whether the currency they require its' services is supported in the application, or not. <br/>
 The short codes are:
 * help - Help Menu
@@ -37,7 +37,7 @@ As a user I would like:
 
 ## Cloning application number 1
 * for user who might not have active internet access, this repository is is preferable.Nevertheless, it is not updated in real time
-* Clone [this repository](https://github.com/Buttonupd/Explore/)
+* Clone [this repository](https://github.com/Buttonupd/Explore/currency)
 * cd FocusLtd/currency
 
 ## Running the application
@@ -51,7 +51,7 @@ As a user I would like:
 
 ## Cloning application number two
 * Running this application requires internet connectivity since the data is being retrieved for the source using HTTP request/s.
-* Clone [this repository](https://github.com/Buttonupd/Explore/)
+* Clone [this repository](https://github.com/Buttonupd/Explore/Request)
 * cd FocusLtd/Request
 
 ## Running the application number 2
