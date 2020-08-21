@@ -37,7 +37,7 @@ As a user I would like:
 
 ## Cloning application number 1
 * for user who might not have active internet access, this repository is is preferable.Nevertheless, it is not updated in real time
-* Clone [this repository](https://github.com/Buttonupd/Explore/currency)
+* Clone [this repository](https://github.com/Buttonupd/Explore/)
 * cd FocusLtd/currency
 
 ## Running the application
@@ -51,7 +51,7 @@ As a user I would like:
 
 ## Cloning application number two
 * Running this application requires internet connectivity since the data is being retrieved for the source using HTTP request/s.
-* Clone [this repository](https://github.com/Buttonupd/Explore/Request)
+* Clone [this repository](https://github.com/Buttonupd/Explore/)
 * cd FocusLtd/Request
 
 ## Running the application number 2
