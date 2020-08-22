@@ -12,8 +12,8 @@ This is a Command line application developed using python. The application runs 
 A user is given the power to check whether the currency they require its' services is supported in the application, or not. <br/>
 The short codes are:
 * help - Help Menu
-* rn - Run the application
-* ex - log into exit
+* rn -   Run the application
+* ex -   Exit out of the application
 
 ## User Stories
 As a user I would like:
