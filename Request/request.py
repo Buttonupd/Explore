@@ -41,5 +41,5 @@ def request():
                          "\nIf it is, then this Currency is not supported at the moment.\nBut we are all always "
                          "working around the clock to integrate more Currencies.")
 
-
+# call the function
 request()

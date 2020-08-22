@@ -22,13 +22,12 @@ def main():
             print("-" * 10)
             print("In the terminal, type python coded.py. This the name of the executable file. \n"
                   "You are prompted to key in a currency value. \n"
-                  "For example, Kenya's Currency is Kenyan shilling. \n"
+                  "For example, Kenya's Currency is KES. \n"
                   "Replace with a value of your own.")
 
         elif short_code == 'rn':
             # execute the main code if this code is called
             from currency import currency
-
             print("-" * 10)
 
         elif short_code == "ex":

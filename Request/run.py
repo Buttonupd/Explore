@@ -21,7 +21,7 @@ def main():
             print("-" * 10)
             print("In the terminal, type python run.py. This the name of the executable file. \n"
                   "You are prompted to key in a currency value. \n"
-                  "For example, Kenya's Currency is Kenyan shilling. \n"
+                  "For example, Kenya's Currency is KES. \n"
                   "Replace with a value of your own.")
             print('To go back to the menu,click the ENTER key on your Keyboard')
 
